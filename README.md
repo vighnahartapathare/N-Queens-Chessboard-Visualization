@@ -8,6 +8,12 @@ This Python program solves the N-Queens problem using a backtracking algorithm a
 - **Step-by-Step Animation**: Places queens one by one on the board and shows the solution with a short delay between each placement.
 - **Customizable Board Size**: You can change the board size to solve the N-Queens problem for any valid size (e.g., 4, 6, 8, etc.).
 
+## Example Chessboard
+
+Here’s a screenshot of what the chessboard looks like when the program runs:
+
+![Chessboard Image](N_queen_animate.JPG)
+
 ## Installation
 
 ### Prerequisites
